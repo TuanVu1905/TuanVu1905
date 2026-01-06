@@ -1,7 +1,7 @@
 # Hi there, I'm Ngo Tuan Vu 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ngo%20Tuan%20Vu&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20(Flutter%20%7C%20React%20Native%20%7C%20iOS)&descAlignY=51&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ngo%20Tuan%20Vu&fontSize=50&animation=fadeIn&fontAlignY=30&desc=Mobile%20Developer%20(Flutter%20%7C%20React%20Native%20%7C%20iOS)&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 ### 🚀 About Me
