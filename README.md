@@ -99,7 +99,6 @@ _12/2021 - 11/2022_
 
 - **Email**: [tuanvu01.1199@gmail.com](mailto:tuanvu01.1199@gmail.com)
 - **Phone**: 0879 259 442
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername) <!-- Please update with your actual username -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
