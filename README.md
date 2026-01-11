@@ -40,7 +40,7 @@ I possess a strong understanding of **Clean Architecture**, scalable application
 
 ### � Work Experience
 
-#### **UNO BANKING APP (Philippines)** | Mobile Developer
+#### **BANKING APP (Philippines)** | Mobile Developer
 
 _08/2025 – Present_
 
@@ -49,7 +49,7 @@ _08/2025 – Present_
 - Developed core banking features including Loans, Savings, and Time Deposits.
 - Integrated analytics and monitoring (Dynatrace, AppsFlyer, MoEngage) to improve stability.
 
-#### **DI-HDBANKING SUPER APP** | Mobile Developer
+#### **BANKING SUPER APP** | Mobile Developer
 
 _11/2024 – 07/2025_
 
